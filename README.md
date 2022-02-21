@@ -1,7 +1,7 @@
 Ahoi!
 
 
-[![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSchaber&show_icons=true&bg_color=5,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSchaber&include_all_commits=true&show_icons=true&bg_color=5,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSchaber&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
