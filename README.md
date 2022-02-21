@@ -11,5 +11,4 @@ background-image: linear-gradient(to right top, #363b75, #864284, #c94b79, #f56b
 JonasSchaber/JonasSchaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-
 --->
