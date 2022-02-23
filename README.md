@@ -1,4 +1,4 @@
-Ahoi!
+Ahoi! Welcome to my profil!
 
 <!---
 [![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSchaber&show_owner&include_all_commits=true&show_icons=true&bg_color=5,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,7 +11,7 @@ Ahoi!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JonasSchaber&show_owner&include_all_commits=true&show_icons=true&bg_color=5,e96443,904e95" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSchaber&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSchaber&langs_count=5" />
 </a>
 
 
